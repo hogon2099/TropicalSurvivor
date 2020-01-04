@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: 8679d7e5636c6c1468296eed7a7bfe75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ammo_Coin_GravStone_Cloud_Shield_0
+  - first:
+      213: 21300002
+    second: Ammo_Coin_GravStone_Cloud_Shield_1
+  - first:
+      213: 21300004
+    second: Ammo_Coin_GravStone_Cloud_Shield_2
+  - first:
+      213: 21300006
+    second: Ammo_Coin_GravStone_Cloud_Shield_3
+  - first:
+      213: 21300008
+    second: Ammo_Coin_GravStone_Cloud_Shield_4
+  - first:
+      213: 21300010
+    second: Ammo_Coin_GravStone_Cloud_Shield_5
+  - first:
+      213: 21300012
+    second: Ammo_Coin_GravStone_Cloud_Shield_6
+  - first:
+      213: 21300014
+    second: Ammo_Coin_GravStone_Cloud_Shield_7
+  - first:
+      213: 21300016
+    second: Ammo_Coin_GravStone_Cloud_Shield_8
+  - first:
+      213: 21300018
+    second: Ammo_Coin_GravStone_Cloud_Shield_9
+  - first:
+      213: 21300020
+    second: Ammo_Coin_GravStone_Cloud_Shield_10
+  - first:
+      213: 21300022
+    second: Ammo_Coin_GravStone_Cloud_Shield_11
+  - first:
+      213: 21300024
+    second: Ammo_Coin_GravStone_Cloud_Shield_12
+  - first:
+      213: 21300026
+    second: Ammo_Coin_GravStone_Cloud_Shield_13
+  - first:
+      213: 21300028
+    second: Ammo_Coin_GravStone_Cloud_Shield_14
+  - first:
+      213: 21300030
+    second: Ammo_Coin_GravStone_Cloud_Shield_15
+  - first:
+      213: 21300032
+    second: Ammo_Coin_GravStone_Cloud_Shield_16
+  - first:
+      213: 21300034
+    second: Ammo_Coin_GravStone_Cloud_Shield_17
+  - first:
+      213: 21300036
+    second: Ammo_Coin_GravStone_Cloud_Shield_18
+  - first:
+      213: 21300038
+    second: Ammo_Coin_GravStone_Cloud_Shield_19
+  - first:
+      213: 21300040
+    second: Ammo_Coin_GravStone_Cloud_Shield_20
+  - first:
+      213: 21300042
+    second: Ammo_Coin_GravStone_Cloud_Shield_21
+  - first:
+      213: 21300044
+    second: Ammo_Coin_GravStone_Cloud_Shield_22
+  - first:
+      213: 21300046
+    second: Loot_0
+  - first:
+      213: 21300048
+    second: Loot_1
+  - first:
+      213: 21300050
+    second: Loot_2
+  - first:
+      213: 21300052
+    second: Loot_3
+  - first:
+      213: 21300054
+    second: Loot_4
+  - first:
+      213: 21300056
+    second: Loot_5
+  - first:
+      213: 21300058
+    second: Loot_6
+  - first:
+      213: 21300060
+    second: Loot_7
+  - first:
+      213: 21300062
+    second: Loot_8
+  - first:
+      213: 21300064
+    second: Loot_9
+  - first:
+      213: 21300066
+    second: Loot_10
+  - first:
+      213: 21300068
+    second: Loot_11
+  - first:
+      213: 21300070
+    second: Loot_12
+  - first:
+      213: 21300072
+    second: Loot_13
+  - first:
+      213: 21300074
+    second: Loot_14
+  - first:
+      213: 21300076
+    second: Loot_15
+  - first:
+      213: 21300078
+    second: Loot_16
+  - first:
+      213: 21300080
+    second: Loot_17
+  - first:
+      213: 21300082
+    second: Loot_18
+  - first:
+      213: 21300084
+    second: Loot_19
+  - first:
+      213: 21300086
+    second: Loot_20
+  - first:
+      213: 21300088
+    second: Loot_21
+  - first:
+      213: 21300090
+    second: Loot_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loot_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 860
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee8a1d415d345849aeefbfb8c6e5c80
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 860
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36bd6f0f796b04e9a43f329b6630dc
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 828
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee715108cd66874eb7ddf1bd96f4c3c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 812
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af75d66457ac64ab2afb75caba549b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_4
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 644
+        width: 288
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729199eb4dc8a454f8f3090df4e65456
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 740
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75401753735c72468c011c4c3c0819d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 740
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edab82d00b9916641a4f481790075a65
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 612
+        width: 72
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f7f63b990bad49bb56684311d8291
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 692
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73026391d1095984bb23849c461876df
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 644
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c181eab43ed21c4aa2e8f8186ac883a
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 628
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939fb898da4be51448a655bc57cdaa41
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 476
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea45510d2014d42ad73cd4f11da96d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 476
+        width: 304
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9245d318f23d14cba700cf8a8fb557
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 348
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f709722983cdb442b61e59443fb661d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 348
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc618c5255f309842b2bb266a87a632d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_15
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 332
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa53b98b9c6b74c9b69209cd5a4fc7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_16
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 260
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfad3a6c5f2cbc43aff66a65478f625
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 260
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14abbe2e4011a54e8f9b939160209f8
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 260
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64c7f1e19a2114298f7f77d8f1c971
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 252
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc90e83c748974445a6dae4a52220f59
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_20
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af2bc4645c82b74aa1bc81e3801e25e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_21
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 268
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326615218b09b35468c001e20817febf
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loot_22
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b4163c410940a459168713a5264495
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c186dfa234f2040408f9c72820f75eed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

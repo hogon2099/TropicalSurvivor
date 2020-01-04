@@ -1,0 +1,859 @@
+fileFormatVersion: 2
+guid: fa3b9d1e196050d45979ecaa6f3026be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8517246650661841725
+    second: CloudsTropical_0
+  - first:
+      213: -6637367298226452258
+    second: CloudsTropical_1
+  - first:
+      213: -6288126509254690407
+    second: CloudsTropical_2
+  - first:
+      213: -5063800354244332661
+    second: CloudsTropical_3
+  - first:
+      213: -492853263866699574
+    second: CloudsTropical_4
+  - first:
+      213: 8248496690424799635
+    second: CloudsTropical_5
+  - first:
+      213: -1865946642645974122
+    second: CloudsTropical_6
+  - first:
+      213: -2464018370437405443
+    second: CloudsTropical_7
+  - first:
+      213: -3093464065149334817
+    second: CloudsTropical_8
+  - first:
+      213: 3691571807980574858
+    second: CloudsTropical_9
+  - first:
+      213: -8660360191352643448
+    second: CloudsTropical_10
+  - first:
+      213: 2579832060078009509
+    second: CloudsTropical_11
+  - first:
+      213: -1520364597772161842
+    second: CloudsTropical_12
+  - first:
+      213: 5293348400635105487
+    second: CloudsTropical_13
+  - first:
+      213: -7357141040595375666
+    second: CloudsTropical_14
+  - first:
+      213: 9063006302350700305
+    second: CloudsTropical_15
+  - first:
+      213: -6633548702693115310
+    second: CloudsTropical_16
+  - first:
+      213: 5453269765530612536
+    second: CloudsTropical_17
+  - first:
+      213: -2084031239700306198
+    second: CloudsTropical_18
+  - first:
+      213: 209973751862253333
+    second: CloudsTropical_19
+  - first:
+      213: 935914029983734056
+    second: CloudsTropical_20
+  - first:
+      213: 5044021430339102923
+    second: CloudsTropical_21
+  - first:
+      213: 5376972973059552803
+    second: CloudsTropical_22
+  - first:
+      213: -2386709482457642583
+    second: CloudsTropical_23
+  - first:
+      213: 5651098700457537893
+    second: CloudsTropical_24
+  - first:
+      213: 7565906699481707432
+    second: CloudsTropical_25
+  - first:
+      213: 9001463485793602585
+    second: CloudsTropical_26
+  - first:
+      213: 5635111488672560385
+    second: CloudsTropical_27
+  - first:
+      213: -8238433302937991455
+    second: CloudsTropical_28
+  - first:
+      213: 6599486771933572622
+    second: CloudsTropical_29
+  - first:
+      213: -5208534572053364311
+    second: CloudsTropical_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CloudsTropical_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1253
+        width: 2932
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e200e87b8d5de0428a6815c05bf25dc
+      internalID: 8517246650661841725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 625
+        width: 2614
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df71555430fdeb4a996fcba0792c854
+      internalID: -6637367298226452258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 310
+        width: 179
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b19692d6bc6a74da5e430e98c0d29e
+      internalID: -6288126509254690407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb179d1509449c499c597c0d47c31d2
+      internalID: -5063800354244332661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_4
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 334
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9285c30ab53f4d9b6c8d3f29f13ef
+      internalID: -492853263866699574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_5
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 322
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9610b4473996ab04f9ca714825ba6a69
+      internalID: 8248496690424799635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_6
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 364
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe9952275dcd547a23ca54a4b8e17d
+      internalID: -1865946642645974122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_7
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 415
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab2aa7bc423e234daba931925ae6079
+      internalID: -2464018370437405443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_8
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 322
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fd74a02e375a4db4c9fb4e0213439
+      internalID: -3093464065149334817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 308
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe60cedfa083346b8636700403f8b3
+      internalID: 3691571807980574858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_10
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 331
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a211912b862f84d96e6577639dcdfb
+      internalID: -8660360191352643448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_11
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 380
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09599cad97961d84dbd1dea888e3e1f7
+      internalID: 2579832060078009509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_12
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 311
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3d98b5577a8b438c93036493e780e
+      internalID: -1520364597772161842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_13
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 266
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6937f0f4f18e72a4bb47f9d64cbeb00f
+      internalID: 5293348400635105487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 223
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6964cb2b2412459d87e4ca6408996
+      internalID: -7357141040595375666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 229
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e337fc7c2b3ec48af49d50dfee7b20
+      internalID: 9063006302350700305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_16
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 260
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ded76e0cff1cc498297f467e235f76
+      internalID: -6633548702693115310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_17
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 274
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995330663a85ea449622b82e6ec3110
+      internalID: 5453269765530612536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_18
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 221
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2312b48c9b64e249a093ab81e022f0c
+      internalID: -2084031239700306198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_19
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 232
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a17c290fd40fa499e48fa0b788cd61
+      internalID: 209973751862253333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_20
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 253
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ced6789b3fa5d40ae194a3002e7342
+      internalID: 935914029983734056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_21
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 131
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0690b0143ead14ca6b0eddb081a15c
+      internalID: 5044021430339102923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_22
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 185
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b1f3b4e52bce4aaa5d9a79dde36f4
+      internalID: 5376972973059552803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_23
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 221
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c559685928e2e954c870a306ec5c562f
+      internalID: -2386709482457642583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_24
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 199
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb82da8f382f604f97ead1c795ada29
+      internalID: 5651098700457537893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_25
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 227
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1196e4c83655b124fa0f8eb1ddf85e55
+      internalID: 7565906699481707432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_26
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 151
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebaa8f5feff00943b68cdfc503cbb00
+      internalID: 9001463485793602585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_27
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 194
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c2e40321cb95c46a32c9043746c046
+      internalID: 5635111488672560385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_28
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 182
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d61030dc763e459a24665129dfdc2
+      internalID: -8238433302937991455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48196240dd45f14db840c58a1f265d2
+      internalID: 6599486771933572622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsTropical_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 85
+        width: 2870
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f358af4ce92e0d947a0b0a2f6455b11d
+      internalID: -5208534572053364311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
