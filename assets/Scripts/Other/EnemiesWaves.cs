@@ -50,6 +50,7 @@ public class EnemiesWaves : MonoBehaviour
 
 		if (!end)
 		{
+			if (!(WavesSpawned.Count >= (counter+1))) return;
 			EnemyController[] currentEnemies = (WavesSpawned[counter].GetComponentsInChildren<EnemyController>());
 
 			if (IsEveryoneDead(currentEnemies))
